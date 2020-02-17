@@ -1,1 +1,10 @@
 Changelog for Data-Object-Role-Buildable
+
+0.02 2020-02-17T04:48:27
+ - Added release updates
+ - Re-releasing to the CPAN
+
+0.01 2020-02-14T21:10:08
+ - Built release version 0.01
+ - Initial implementation
+ - Initial commit
